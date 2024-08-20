@@ -1,0 +1,1 @@
+class Archive(val nameArchive: String, val noteList: MutableList<Note> = mutableListOf())
